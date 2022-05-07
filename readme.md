@@ -7,3 +7,4 @@ Sessions:
 6. [Add a Camera](https://api.arcade.academy/en/latest/examples/platform_tutorial/step_06.html)
 7. [Add Coins and Sound](https://api.arcade.academy/en/latest/examples/platform_tutorial/step_07.html)
 8. [Display the Score](https://api.arcade.academy/en/latest/examples/platform_tutorial/step_08.html)
+9. [Use Tiled Map Editor](https://api.arcade.academy/en/latest/examples/platform_tutorial/step_09.html)
