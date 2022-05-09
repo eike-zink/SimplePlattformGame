@@ -8,3 +8,5 @@ Sessions:
 7. [Add Coins and Sound](https://api.arcade.academy/en/latest/examples/platform_tutorial/step_07.html)
 8. [Display the Score](https://api.arcade.academy/en/latest/examples/platform_tutorial/step_08.html)
 9. [Use Tiled Map Editor](https://api.arcade.academy/en/latest/examples/platform_tutorial/step_09.html)
+10. [Multiple Levels and Other Layers](https://api.arcade.academy/en/latest/examples/platform_tutorial/step_10.html)
+11. [Add Ladders, Properties, and a Moving Platform](https://api.arcade.academy/en/latest/examples/platform_tutorial/step_11.html)
